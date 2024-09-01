@@ -1,0 +1,330 @@
+body {
+  width: 100%;
+  height: 100%;
+  background: #5b0017;
+  overflow: scroll;
+}
+
+.header {
+  position: relative;
+  width: 107%;
+  height: 100%;
+  top: 233px;
+  left: 0px;
+  gap: 0px;
+  opacity: 0px;
+  background: #5b0017;
+}
+.logo {
+  position: relative;
+  width: 100px;
+  height: 155px;
+  top: -200px;
+  left: 60px;
+  gap: 0px;
+  opacity: 0px;
+}
+.nav {
+  display: flex;
+  position: relative;
+  width: 454px;
+  height: 26px;
+  top: -300px;
+  left: 400px;
+  gap: 85px;
+  opacity: 0px;
+}
+button {
+  background: transparent;
+
+  border: 1px solid transparent;
+  color: #ffffff;
+  font-family: Cotoris;
+  font-size: 21px;
+  font-weight: 400;
+  line-height: 26.25px;
+  text-align: left;
+}
+.book {
+  position: relative;
+  width: 171px;
+  height: 63px;
+  top: -385px;
+  left: 1200px;
+  gap: 0px;
+  opacity: 0px;
+  background: #cc9d2f;
+  font-family: CotorisBold;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 30px;
+  text-align: center;
+  color: #5b0017;
+}
+.vector {
+  position: relative;
+  width: 39.37px;
+  height: 76.98px;
+  top: -355px;
+  left: 1200px;
+  gap: 0px;
+  opacity: 0px;
+}
+.section1 {
+  position: relative;
+  width: 700px;
+  height: 534px;
+  top: -280px;
+  gap: 0px;
+  opacity: 0px;
+}
+.image1 {
+  position: relative;
+  width: 763px;
+  height: 534px;
+  top: 0px;
+  left: 600px;
+  gap: 0px;
+  opacity: 0px;
+  angle: 180 deg;
+}
+.text1 {
+  position: relative;
+  width: 944.01px;
+  height: 255px;
+  top: -650px;
+  left: 73.99px;
+  gap: 0px;
+  opacity: 0px;
+  background: #5b0017b2 70%;
+  font-family: CotorisBold;
+  font-size: 120px;
+  font-weight: 400;
+  line-height: 130px;
+  text-align: left;
+  color: #ffffff;
+}
+.text2 {
+  position: relative;
+  top: -650px;
+  width: 444px;
+  left: 80px;
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 27.84px;
+  text-align: left;
+}
+.book2 {
+  position: relative;
+  width: 171px;
+  height: 63px;
+  top: -650px;
+  left: 80px;
+  gap: 0px;
+  opacity: 0px;
+  background: transparent;
+  border: 3px solid #cc9d2f;
+  font-family: CotorisBold;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 30px;
+  text-align: center;
+  color: #cc9d2f;
+}
+.vector1 {
+  position: relative;
+  top: -450px;
+  left: -100px;
+}
+.vector2 {
+  position: relative;
+  top: -570px;
+  left: 1340px;
+}
+.section2 {
+  display: flex;
+  padding-left: 80px;
+  position: relative;
+  gap: 50px;
+  top: 220px;
+  height: 100%;
+  width: 80%;
+  background-color: #5b0017;
+}
+.image2 {
+  width: 404.84px;
+  height: 621.05px;
+  top: 1001.8px;
+  left: 82px;
+  gap: 0px;
+  opacity: 0px;
+  angle: 0.11 deg;
+}
+.text3 {
+  position: relative;
+  top: -70px;
+}
+.text4 {
+  font-family: CotorisBold;
+  font-size: 70px;
+  font-weight: 400;
+  line-height: 87.5px;
+  text-align: left;
+}
+.text5 {
+  font-family: Inter;
+  font-size: 23px;
+  font-weight: 300;
+  line-height: 27.84px;
+  text-align: left;
+}
+.book3 {
+  position: relative;
+  width: 177.25px;
+  height: 69.62px;
+  top: 10px;
+  left: 0px;
+  gap: 0px;
+  opacity: 0px;
+  background: transparent;
+  border: 3px solid #cc9d2f;
+  font-family: CotorisBold;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 30px;
+  text-align: center;
+  color: transparent;
+}
+.book4 {
+  position: relative;
+  width: 177.25px;
+  height: 69.62px;
+  top: 0px;
+  left: -170px;
+  gap: 0px;
+  opacity: 0px;
+  background: #cc9d2f;
+  font-family: CotorisBold;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 30px;
+  text-align: center;
+  color: #5b0017;
+}
+.photo {
+  position: relative;
+  display: flex;
+  width: 151.16px;
+  height: 156.17px;
+  top: 30px;
+  left: 0px;
+  gap: 30px;
+  opacity: 0px;
+  angle: 0.11 deg;
+}
+
+.section3 {
+  position: relative;
+  width: 1500px;
+  height: 1000px;
+  top: 400px;
+  left: 0px;
+  background-color: #5b0017;
+  text-align: center;
+}
+.vector3 {
+  position: relative;
+  top: 10px;
+  left: -10px;
+}
+.vector4 {
+  position: relative;
+  top: 10px;
+  left: 400px;
+}
+.section4 {
+  background-image: url(./assets/image9.png);
+  background-size: cover;
+  width: 1515px;
+  height: 869px;
+  top: 25px;
+  left: -4px;
+  gap: 0px;
+  opacity: 0px;
+
+  position: relative;
+  /* left: 100px;
+  width: 1000px;
+  height: 100px; */
+  text-align: center;
+}
+.content {
+  position: relative;
+  width: 948.79px;
+  height: 295.62px;
+  top: 271.62px;
+  left: 281.53px;
+  gap: 0px;
+  opacity: 0px;
+  text-align: center;
+}
+.text6 {
+  font-family: CotorisBold;
+  font-size: 70px;
+  font-weight: 400;
+  line-height: 87.5px;
+  text-align: center;
+
+  width: 948.79px;
+  height: 171px;
+  top: 271.62px;
+  left: 281.53px;
+  gap: 0px;
+  opacity: 0px;
+}
+.buttons2 {
+  position: relative;
+  left: 95px;
+}
+.footer {
+  position: relative;
+  width: 1515px;
+  height: 339px;
+  gap: 0px;
+  opacity: 0px;
+  background: #cc9d2f;
+  text-align: center;
+}
+.logo2 {
+  position: relative;
+  top: 60px;
+}
+.nav2 {
+  display: flex;
+  position: relative;
+  width: 710px;
+  height: 26px;
+  top: 125px;
+  left: 420px;
+  gap: 55px;
+  opacity: 0px;
+  text-align: center;
+}
+.home {
+  color: #5b0017;
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 22.44px;
+  text-align: left;
+}
+.footer2 {
+  position: relative;
+  top: 180px;
+}
+
+.bottom {
+  position: relative;
+  left: -255px;
+}
