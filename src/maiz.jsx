@@ -65,8 +65,8 @@ function Maiz() {
           </div>
           <img src={vector3} alt="" className="vector3" />
 
-          <img src={vector4} alt="" className="vector4" />
-        </div>
+{/*           <img src={vector4} alt="" className="vector4" />
+        </div> */}
       </div>
 
       <div className="section3">
