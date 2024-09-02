@@ -10,7 +10,7 @@ import image4 from "./assets/image4.png";
 import image5 from "./assets/image5.png";
 import image6 from "./assets/image6.png";
 import vector3 from "./assets/Line.png";
-import vector4 from "./assets/vector2.png";
+// import vector4 from "./assets/vector2.png";
 import image7 from "./assets/Quote.png";
 import logo2 from "./assets/logo2.png";
 import bottom from "./assets/Bottom.png";
